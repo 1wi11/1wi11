@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 <br/>
-<div>
-  <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</div>
+<H3>
+  AWS
+</H3>
 <div>
   -APIgateway
 </div>
