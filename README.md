@@ -8,7 +8,6 @@
   <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
-<br/>
 <H3>
   Skill
 </H3>
@@ -18,7 +17,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-<br/>
 <H3>
   AWS
 </H3>
@@ -34,3 +32,4 @@
 <div>
   -Amplify
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1wi11)](https://github.com/anuraghazra/github-readme-stats)
