@@ -1,6 +1,11 @@
 ## Hi there 👋
+<div>
+  
+</div>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--
+
+[![1wi11's GitHub stats](https://github-readme-stats.vercel.app/api?username=1wi11)](https://github.com/anuraghazra/github-readme-stats)
+
 **1wi11/1wi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
