@@ -20,15 +20,10 @@
 <H3>
   AWS
 </H3>
-<div>
-  -APIgateway
-</div>
-<div>
-  -Lambda
-</div>
-<div>
-  -DynamoDB
-</div>
-<div>
-  -Amplify
-</div>
+<ul>
+  <li>APIGateway</li>
+  <li>Lambda</li>
+  <li>DynamoDB</li>
+  <li>Amplify</li>
+</ul>
+
